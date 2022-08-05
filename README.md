@@ -1,7 +1,9 @@
 # Test-Case-Samples
+
 Below are some Test Case samples that I wrote while working on previous projects.
 ----------------------------------------
-*Title	Test login with correct credentials
+**Title**	Test login with correct credentials
+
 **Description**	
 Check if the login works when a person uses a correct user/pass.
 
