@@ -20,6 +20,9 @@ User should be able to login and is taken to his profile page.
 **Test Data:**
 User: Voicu & Pass: 21333
 
+**Status:**
+PASSED
+
 ------------------------------------
 **Title:** Test login with incorrect credentials
 
@@ -37,6 +40,9 @@ The user should not be able to login. An error should appear.
 
 **Test Data:**
 User: Voicu & Pass: 21333
+
+**Status:**
+PASSED
 
 -------------------------
 
