@@ -1,7 +1,9 @@
 # Test-Case-Samples
 
 Below are some Test Case samples that I wrote while working on previous projects.
+
 -----------------
+
 **Title**	Test login with correct credentials
 
 **Description:**	
@@ -15,6 +17,7 @@ Check if the login works when a person uses a correct user/pass.
 **Expected result:**	
 User should be able to login and is taken to his profile page.
 
-**Test data User:** 
-Voicu & Pass: 21333
+**Test Data**
+User: Voicu & Pass: 21333
+
 ------------------------------------
